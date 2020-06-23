@@ -19,7 +19,7 @@ module.exports = {
     devServer: {
         proxy: {
             '/api': {
-                target: 'http://res.wenxiang.org:8001', //服务器地址
+                target: 'http//localhost:3002', //服务器地址
                 changeOrigin: true,
                 pathRewrite: {
                     '^/api': '', // 去掉path前面的/api
