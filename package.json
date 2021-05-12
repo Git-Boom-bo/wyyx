@@ -12,7 +12,7 @@
     "better-scroll": "^1.15.2",
     "core-js": "^3.6.5",
     "postcss-plugin-px2rem": "^0.8.1",
-    "swiper": "^5.4.5",
+    "swiper": "^6.5.1",
     "vant": "^2.8.6",
     "vue": "^2.6.11",
     "vue-router": "^3.3.4"
